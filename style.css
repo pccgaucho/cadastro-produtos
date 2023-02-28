@@ -1,0 +1,40 @@
+* {
+    background: #D3D3D3;
+    font-family: Arial;
+}
+
+body {
+    padding: 0 50px 0 50px;
+}
+
+.figura {
+    padding: 0 20px 0 5px;
+    width: 70px;
+    height: 70px;
+}
+
+h1 {
+    color: #8B0000;
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+hr {
+    margin: 20px 0 20px 0;
+}
+
+.entrada, .seletor {
+    background: white;
+    font-size: 30px;    
+}
+
+.btn {
+    background: #8B0000;
+    font-size: 30px;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+}
